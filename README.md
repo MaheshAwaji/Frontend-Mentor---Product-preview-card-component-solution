@@ -12,7 +12,7 @@ You can view the live demo of this project [here](https://example.com).
 
 ## Screenshots
 
-![Desktop View](screenshots/desktop.png)
+![Desktop View](screenshot3.PNG)
 *Desktop View*
 
 
