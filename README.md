@@ -1,8 +1,10 @@
 # Product Preview Card Component
 
-![Product Preview Card Component](screenshot.png)
+This repository contains a solution for the Product Preview Card Component challenge from Frontend Mentor. It is implemented using HTML and CSS, leveraging properties such as Flexbox and the Box Model.
 
-This is a solution for the Product Preview Card Component challenge from Frontend Mentor. It is implemented using HTML and CSS, leveraging properties such as Flexbox and the Box Model.
+## Overview
+
+The Product Preview Card Component is a common UI element used in various web applications to showcase product information. It typically consists of an image or preview of the product, along with some descriptive text and possibly interactive elements.
 
 ## Demo
 
@@ -13,15 +15,15 @@ You can view the live demo of this project [here](https://example.com).
 ![Desktop View](screenshots/desktop.png)
 *Desktop View*
 
-![Mobile View](screenshots/mobile.png)
-*Mobile View*
 
-## Tech Stack
+
+## Built With
 
 - HTML
 - CSS
   - Flexbox
   - Box Model
+  - Media Queries for Responsiveness
   - etc. (add other CSS properties or techniques used)
 
 
