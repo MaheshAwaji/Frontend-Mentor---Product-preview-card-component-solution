@@ -9,7 +9,7 @@ The Product Preview Card Component is a common UI element used in various web ap
 ## Demo
 
 You can view the live demo of this project 
-[Click here]([https://example.com](https://awaji-frontend-mentor-challenge-03.netlify.app/)).
+[Click here]([https://example.com](https://awaji-frontend-mentor-challenge-03.netlify.app/).
 
 ## Screenshots
 
